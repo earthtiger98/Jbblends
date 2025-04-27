@@ -1,15 +1,15 @@
-# Teyah's Portfolio Website
+# JB Blends Barber Shop Website
 
-A minimalist, elegant portfolio website showcasing Teyah's modeling work.
+A professional, elegant website for JB Blends, a premium barber shop.
 
 ## Features
 
 - Clean, modern design
 - Responsive layout
-- Featured work gallery
-- Full portfolio gallery
+- Services showcase
+- Portfolio gallery of haircuts and styles
 - Smooth scrolling navigation
-- Contact section
+- Contact and booking section
 
 ## Technologies Used
 
@@ -23,12 +23,12 @@ A minimalist, elegant portfolio website showcasing Teyah's modeling work.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/teyah-portfolio.git
+git clone https://github.com/yourusername/jb-blends.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd teyah-portfolio
+cd jb-blends
 ```
 
 3. Open `index.html` in your browser to view the site locally.
@@ -43,8 +43,8 @@ This site is configured for deployment on Vercel:
 
 ## Structure
 
-- `index.html` - Main page with hero section and featured work
-- `gallery.html` - Full portfolio gallery
+- `index.html` - Main page with hero section and services
+- `gallery.html` - Full portfolio gallery of haircuts and styles
 - `styles.css` - All styling
 - `script.js` - JavaScript functionality
 - `vercel.json` - Vercel deployment configuration
